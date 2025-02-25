@@ -8,5 +8,5 @@
 - **Dự án:** [GitHub Repository](https://github.com/hoangh-e/cnnlthd-web-microservices.git)  
 
 ## 3. Thực hành  
-- **Thuchanh1 - Docker{s}:** [Xem chi tiết](INSERT_THUCHANH1_LINK_HERE)  
+- **Thuchanh1 - Docker{s}:** [Xem chi tiết](THUCHANH1_LINK)  
 - **Thuchanh2 - Webapp Monolithic:** [GitHub Repository](https://github.com/hoangh-e/DAWEB.git)  
