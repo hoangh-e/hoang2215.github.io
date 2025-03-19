@@ -4,11 +4,11 @@
 [Trịnh Việt Hoàng](https://hoangh-e.github.io/hoang2215.github.io/)
 
 ## 2. Đồ án cuối kỳ
-
-### 2.1. Báo cáo khóa học: 
 <details>
-<summary><strong>2025 Master Langchain and Ollama - Chatbot, RAG and Agents</strong></summary>
+<summary><strong>
+2.1. Báo cáo khóa học: </strong></summary>
 
+2025 Master Langchain and Ollama - Chatbot, RAG and Agents
   -  ***[Xem khóa học](https://www.udemy.com/course/ollama-and-langchain)***
 
 | Phần | Tiêu đề | Tóm tắt | Báo cáo | Tiến độ |
@@ -36,14 +36,19 @@
 | 21 | ... | ... | ... | ... |
 </details>
 
-### 2.2. Plan
+<details>
+<summary><strong>
+2.2. Plan</strong></summary>
 - Nội dung kế hoạch của bạn ở đây.
+</details>
 
-
-### 2.3. Báo cáo đề tài:
+<details>
+<summary><strong>
+2.3. Báo cáo đề tài:</strong></summary>
 
 - **Tuần 7 (19/3):** [Bản bao cáo](LINK) ⏳
 - **Tuần 8 ():** [Bản bao cáo](LINK) ⏳
+</details>
 
 ## 3. Bài tập và Thực hành
 
